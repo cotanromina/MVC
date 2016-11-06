@@ -1,0 +1,6 @@
+F:\Facultate\EB sem1\MVC\UbbCourse1\Fruits\Fruits\bin\Debug\Fruits.exe.config
+F:\Facultate\EB sem1\MVC\UbbCourse1\Fruits\Fruits\bin\Debug\Fruits.exe
+F:\Facultate\EB sem1\MVC\UbbCourse1\Fruits\Fruits\bin\Debug\Fruits.pdb
+F:\Facultate\EB sem1\MVC\UbbCourse1\Fruits\Fruits\obj\Debug\Fruits.csprojResolveAssemblyReference.cache
+F:\Facultate\EB sem1\MVC\UbbCourse1\Fruits\Fruits\obj\Debug\Fruits.exe
+F:\Facultate\EB sem1\MVC\UbbCourse1\Fruits\Fruits\obj\Debug\Fruits.pdb
